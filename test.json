@@ -1,0 +1,16 @@
+{  "order": {
+        "items": [
+            {
+            "name": "Test",
+            "quantity": 1,
+            "unit_price": 100
+            }
+          ],
+        "address": "Test Address",
+        "client": {
+            "name": "Test User",
+            "phone": "0000000000"
+        },
+        "point_id": 3
+    }
+}
